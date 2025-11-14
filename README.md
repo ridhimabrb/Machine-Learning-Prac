@@ -9,4 +9,4 @@ B. EARLY DISEASE DETECTION
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a4ff36e6-a13f-4b2e-9730-f1527bdcd23b" />
 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/48ef326d-8528-4957-8db5-f1fb57397b8b" />
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/275e5a78-c670-4970-8828-e1ea8420da98" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/275e5a78-c670-4970-8828-e1ea8420da98" />
